@@ -1,10 +1,18 @@
-<h1 align="center">Hi, I'm Rehaan </h1>
+<h1>Rehaan Anjaria | Civic Tech | Computational Linguistics</h1>
 
 <p align="center">
   <a href="https://citywise.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+civic+tech+for+Los+Angeles;Making+local+government+data+accessible;RAG+%7C+ML+%7C+Open+Data;Open+to+research+%26+collaboration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Building+civic+tech;Making+local+government+data+accessible;RAG+%7C+ML+%7C+Open+Data;Open+to+research+%26+collaboration" alt="Typing SVG" />
   </a>
 </p>
+
+---
+### Who is this guy?
+
+I believe that everything is related and success in a given field comes from **uniquely** connecting _seemingly_ disparate fields.
+Being able to know what is going on in your community, whether that's your block, neighborhood, town, city, state, or country, is the foundation of democracy. Luckily, that information lives online. Unluckily, it is hard to find, parse, and answer the fundamental questions: "How does this affect me?" and "What can I do about it?"
+My background includes 3 years of working in local government, both on the policy recommendation and data consultant sides. It includes building social impact tech to solve access to information issues, and advocating for action and building above all else. I've worked across fashion, film, media, law, and tech.
+Now, I'm in college, studying Computational Linguistics at USC. I want to help local governments work better and faster for the people they serve, and bring the technological revolution to the public sector. I am also building a community of civic engineers, builders, thinkers, and designers. If you're interested in working together, my contact information is just below.
 
 ---
 
